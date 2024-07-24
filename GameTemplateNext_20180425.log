@@ -1,0 +1,22 @@
+﻿  clear.cpp
+  game.cpp
+  game1.cpp
+  game10.cpp
+  game4.cpp
+  game5.cpp
+  game6.cpp
+  game7.cpp
+  game8.cpp
+  game9.cpp
+  key_mouse.cpp
+  lv3.cpp
+  main.cpp
+  management.cpp
+  manual.cpp
+  menu.cpp
+  over.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 208 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  GameTemplateNext_20180425.vcxproj -> C:\Users\user\Desktop\テンプレ2019,\テンプレ2019,\GameTemplateNext_2019-07-04\x64\Release\GameTemplateNext_20180425.exe
